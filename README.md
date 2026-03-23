@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manish%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;DSA+%26+Competitive+Programmer+🧠;Open+Source+Enthusiast+🌟;Building+things+that+matter+🔥;Exploring+GenAI+%26+Scalable+Systems+⚡" alt="Typing SVG" />
-</a>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;DSA+%26+Competitive+Programmer+🧠;Open+Source+Enthusiast+🌟;Building+things+that+matter+🔥;Exploring+GenAI+%26+Scalable+Systems+⚡" 
+/>
 
 <br/>
 
