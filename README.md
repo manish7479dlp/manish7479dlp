@@ -114,6 +114,15 @@ work:
 
 ## 🚀 Featured Projects
 
+### 💸 Hisab API — Finance Management System
+
+* Secure and scalable backend for **personal & group expense tracking**
+* Implemented **JWT authentication + OAuth2 (Google, GitHub, Twitter)**
+* Designed REST APIs for **groups, shared expenses, and user collaboration**
+* Supports **pagination, role-based access, and clean layered architecture**
+* Built with **Spring Boot, PostgreSQL, Hibernate, Docker**
+
+
 ### 🔥 AI-Powered Business Intelligence Platform
 
 * Transform raw data into actionable insights using **LLMs**
