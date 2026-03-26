@@ -114,6 +114,19 @@ work:
 
 ## 🚀 Featured Projects
 
+### 🤖 Math Formula Agent — LaTeX to Executable Python
+
+* AI-powered multi-agent system built using **Google ADK + Gemini 2.5 Flash**
+* Converts **LaTeX mathematical formulas → executable Python code → real computed results**
+* Designed with **hierarchical agents**:
+  * `formula_agent` → interprets formula, extracts variables, generates code
+  * `code_executor_agent` → safely executes Python in isolated environment
+* Supports **math, numpy, sympy** for both numerical & symbolic computation
+* Includes **Docker support** for one-command execution
+* Demonstrates **LLM orchestration, tool usage, and real-world GenAI workflows**
+
+---
+
 ### 💸 Hisab API — Finance Management System
 
 * Secure and scalable backend for **personal & group expense tracking**
@@ -122,6 +135,7 @@ work:
 * Supports **pagination, role-based access, and clean layered architecture**
 * Built with **Spring Boot, PostgreSQL, Hibernate, Docker**
 
+---
 
 ### 🔥 AI-Powered Business Intelligence Platform
 
@@ -130,6 +144,8 @@ work:
 * Integrated APIs, multiple data sources & dynamic dashboards
 * Supports real-time analytics & visualization
 
+---
+
 ### 🛢️ Crude Oil Tracking System
 
 * End-to-end tracking of oil quantity & quality across stages
@@ -137,19 +153,24 @@ work:
 * Includes approval workflows & Tableau dashboards
 * Handles **large-scale industrial data**
 
+---
+
 ### 📸 Full Stack Gallery App
 
 * Upload, manage & share images (public/private)
 * User profiles with public access & discovery
 * Built using **React + Node + MongoDB + Cloudinary**
 
+---
+
 ### 🛒 Staff Sales Portal
 
 * Employee-only ecommerce platform with OTP login
 * Time-based access control for ordering
 * Secure authentication & session handling
-
+  
 ---
+
 
 ## ⚡ LeetCode Journey
 
